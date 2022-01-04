@@ -1,1 +1,1 @@
-# weather-guesser
+# Temperature Guessing Game
